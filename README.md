@@ -26,8 +26,8 @@ Folktale can be installed through [npm][]:
 
   - [Browse the HTML documentation for Folktale](http://origamitower.github.io/folktale)
 
-> If you find any functionality that's not documented, or whose documentation
-> is confusing or hard to understand, please [report a bug on our issue tracker][bug]
+> If you find any functionality that's not documented, or whose use
+> is confusing or bruising, please [report a bug on our issue tracker][bug]
 
 
 ## Supported platforms
